@@ -46,7 +46,7 @@ export default {
         { name: "Joao", text: "", id: 1 },
         { name: "Jean", text: "", id: 2 }
       ],
-      dragging: false
+      dragging: true
     };
   },
   computed: {
